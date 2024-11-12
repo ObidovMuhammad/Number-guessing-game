@@ -30,12 +30,12 @@ To run this game on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ObidovMuhammad/number-guessing-game.git
+   git clone https://github.com/ObidovMuhammad/Number-guessing-game.git
    ```
 
 2. Navigate to the project folder:
    ```bash
-   cd number-guessing-game
+   cd Number-guessing-game
    ```
 
 3. Run the Python script:
